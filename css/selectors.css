@@ -1,0 +1,12 @@
+body { background-color: #f0f0f0;}
+
+.login-div { padding: 15px;
+border:solid darkmagenta;
+box-shadow: 0 0 2px;
+
+display:inline-block}
+
+.login-div input { 
+    display: block;
+margin-bottom: 15px;
+}
